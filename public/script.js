@@ -45,6 +45,15 @@ const dragItem = document.getElementById('audio-wrapper');
 
 
 
+const audio_1 = document.getElementById('audio1');
+        let audio_width = 0.15   
+    
+    
+        function changeWidth () {
+            audio_1.style.width = 0
+        }
+      
+        changeWidth
         
 
 
